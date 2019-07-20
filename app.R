@@ -1,6 +1,5 @@
 library(shiny)
 library(keras)
-library(httr)
 library(jpeg)
 library(stringr)
 
